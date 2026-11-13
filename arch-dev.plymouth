@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=arch-dev
+Description=Arch Linux boot screen - darwin boot animation, refined shutdown
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/arch-dev/assets
+ScriptFile=/usr/share/plymouth/themes/arch-dev/assets/arch-dev.script
